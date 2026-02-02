@@ -1,0 +1,3 @@
+
+# Manuals
+- https://javascript.info/
