@@ -1,0 +1,14 @@
+#gameField {
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#car {
+    width: 100px;
+
+    position: absolute;
+    top: 375px;
+    left: 350px;
+}
