@@ -1,0 +1,14 @@
+#mouseMoveArea{
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 20px auto;
+}
+
+
+#contextMenuArea{
+    width: 400px;
+    height: 400px;
+    background-color: lightcoral;
+    margin: 20px auto;
+}
