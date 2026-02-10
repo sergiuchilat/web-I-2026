@@ -1,0 +1,33 @@
+#loader{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+#error{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    display: none;
+}
+
+#posts{
+    margin-top: 20px;
+}
+
+#posts div{
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#posts div:hover{
+    background-color: #f0f0f0;
+}
+
+#posts div a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
