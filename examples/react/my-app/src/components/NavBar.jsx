@@ -7,6 +7,9 @@ export default function NavBar() {
                 <li><a href="/photos">Photos</a></li>
                 <li><a href="/videos">Videos</a></li>
                 <li><a href="/props-drilling">Props Drilling</a></li>
+                <li><a href="/use-state">useState</a></li>
+                <li><a href="/use-effect">useEffect</a></li>
+                <li><a href="/fetch-api-data">Fetch API Data</a></li>
                 <li><a href="/contact">Contact</a></li>
             </ul>
         </nav>
