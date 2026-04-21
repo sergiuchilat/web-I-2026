@@ -1,5 +1,5 @@
 import NavBar from "@/components/NavBar";
-import UseEffectDemoWrapper from "../../components/use-effect/UseEffectDemoWrapper";
+import UseEffectDemoWrapper from "../../../components/use-effect/UseEffectDemoWrapper";
 
 export default function UseEffectPage() {
     return (
